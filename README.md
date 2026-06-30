@@ -14,8 +14,8 @@ Use the latest GitHub Release on this repository and download the package for yo
 
 Expected first-release packages:
 
-- `PaperBaseDuel-0.5.0-public-alpha-macos.zip`
-- `PaperBaseDuel-0.5.0-public-alpha-windows.exe`
+- `PaperBaseDuel_0_5_0_macOS.zip`
+- `PaperBaseDuel_0_5_0_windows.exe`
 
 Additional platforms may be added later if they can be tested.
 
@@ -24,6 +24,10 @@ Additional platforms may be added later if they can be tested.
 This repository is release-only. It does not contain source code, development history, or editable source assets.
 
 Public packages are exported builds only. Credits and license information should be distributed with the release package and mirrored in this repository when applicable.
+
+## Issues
+
+Feel free to open issues about the game. You can report bugs, or give suggestions so that I can improve my game. Any feedback is appreciated.
 
 ## Status
 
