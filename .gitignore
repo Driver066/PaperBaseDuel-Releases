@@ -1,0 +1,11 @@
+.DS_Store
+
+# Build artifacts are distributed through GitHub Releases, not committed to git.
+*.zip
+*.exe
+*.dmg
+*.app/
+*.pck
+*.tar.gz
+*.tar.xz
+*.7z

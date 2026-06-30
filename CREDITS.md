@@ -1,6 +1,7 @@
 # Credits
 
-This project uses several third-party assets during development.
+Official Paper Base Duel release packages use the following third-party assets,
+fonts, and audio. Third-party content remains under its own licenses.
 
 ## Visual Assets
 
@@ -10,16 +11,8 @@ This project uses several third-party assets during development.
 - Creator: oddsandents
 - Source: itch.io
 - License: Free to use; attribution not required
-- Usage: Background paper texture used in the game prototype
+- Usage: Paper-style background texture
 - Notes: Credit is provided voluntarily.
-
-### Icons in Concept Arts
-
-- Asset: Kenney Game Assets All-in-1
-- Creator: Kenney
-- Source: itch.io
-- License: Creative Commons Zero (CC0)
-- Usage: 3 icons are used to show general information such as player number, game estimated time, and online / offline.
 
 ## Fonts
 
@@ -30,7 +23,7 @@ This project uses several third-party assets during development.
 - Source: https://github.com/lxgw/LxgwWenKai
 - License: SIL Open Font License 1.1
 - Usage: Title, paper-style UI, and Literary Chinese text presentation
-- License file: `GodotProject/assets/fonts/lxgw-wenkai/OFL.txt`
+- License text: SIL Open Font License 1.1, available from the upstream project
 
 ### Noto Sans SC
 
@@ -39,7 +32,7 @@ This project uses several third-party assets during development.
 - Source: https://fonts.google.com/noto/specimen/Noto+Sans+SC
 - License: SIL Open Font License 1.1
 - Usage: Simplified Chinese and general UI text
-- License file: `GodotProject/assets/fonts/Noto_Sans_SC/OFL.txt`
+- License text: SIL Open Font License 1.1, available from the upstream project
 
 ## Audio Assets
 
@@ -50,7 +43,7 @@ This project uses several third-party assets during development.
 - Source: https://kenney.nl/assets/casino-audio
 - License: Creative Commons Zero (CC0)
 - Usage: Supply dice feedback sounds
-- License file: `GodotProject/assets/audio/sfx/shop_items/die_and_dice/kenney_casino_audio/License.txt`
+- License text: CC0 notice available from the upstream asset page
 
 ### Kenney RPG Audio
 
@@ -59,12 +52,14 @@ This project uses several third-party assets during development.
 - Source: https://kenney.nl/assets/rpg-audio
 - License: Creative Commons Zero (CC0)
 - Usage: Book and interface feedback sounds
-- License file: `GodotProject/assets/audio/sfx/interface/kenney_rpg_audio/License.txt`
+- License text: CC0 notice available from the upstream asset page
 
 ## Project Copyright
 
-Unless otherwise noted above or in an asset folder, Paper Base Duel's original code, game design, writing, art, and audio assets are copyright Xiaocheng Zhu.
+Unless otherwise noted above, Paper Base Duel's original code, game design,
+writing, art, audio assets, and exported release packages are copyright
+Xiaocheng Zhu.
 
-## Placeholder / Prototype Assets
+## Release Status
 
-Some assets are still prototype-grade and may be replaced in future versions.
+Some visuals and audio may be revised in future versions.
