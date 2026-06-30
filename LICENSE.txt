@@ -1,0 +1,19 @@
+Paper Base Duel Release Package License
+
+Copyright (c) 2026 Xiaocheng Zhu. All rights reserved.
+
+Paper Base Duel's original code, game design, writing, original art, original audio,
+and exported release packages are proprietary unless a separate written license says
+otherwise.
+
+You may download and run official Paper Base Duel release packages for personal
+playtesting. This permission does not grant the right to redistribute modified builds,
+sell the game, publish extracted original assets, or reuse Paper Base Duel's original
+content in another project.
+
+This repository is not a source-code release and does not grant an open-source
+software license.
+
+Third-party assets, fonts, and audio included in a release package remain under their
+own licenses. See CREDITS.md and the license files bundled with the release package
+for attribution and third-party license details.
